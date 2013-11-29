@@ -2,7 +2,14 @@
 ro.cwm.enable_key_repeat=true
 
 # Graphics
-ro.sf.lcd_density=480
+ro.sf.lcd_density=320
 
 ro.use_data_netmgrd=true
 persist.data.netmgrd.qos.enable=true
+
+#Extra device info in settings
+ro.device.cpu=2.2 GHz Snapdragon 800 quad-core
+ro.device.gpu=Qualcomm Adreno 330
+ro.device.rear_cam= Sony G-Lens and BIONZ™ engine (20.7mp) Camera
+ro.device.front_cam=2 MP Full-HD cam
+ro.device.screen_res=5.0 inch 1080p Triluminous Display
